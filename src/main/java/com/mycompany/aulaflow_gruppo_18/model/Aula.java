@@ -10,5 +10,5 @@ package com.mycompany.aulaflow_gruppo_18.model;
  * @author david
  */
 public class Aula {
-    
+    int x=3;
 }
