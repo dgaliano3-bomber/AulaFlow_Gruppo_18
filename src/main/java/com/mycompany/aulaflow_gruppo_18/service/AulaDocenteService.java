@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.aulaflow_gruppo_18.model;
+package com.mycompany.aulaflow_gruppo_18.service;
 
 /**
  *
  * @author david
  */
-public class prenotazione {
+public class AulaDocenteService {
     
 }
