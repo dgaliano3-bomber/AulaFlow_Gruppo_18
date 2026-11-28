@@ -9,6 +9,6 @@ package com.mycompany.aulaflow_gruppo_18.exception;
  *
  * @author david
  */
-public class AulaFlowExcpetion {
+public class AulaFlowException {
     
 }
